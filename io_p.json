@@ -1,0 +1,1 @@
+{"cols_rows": [16, 2], "buttons": {"R": 6, "C": 7, "S": 8}, "i2c_pins": {"scl": 1, "sda": 0}, "block": 10, "adc_pins": {"a": 26, "b": 27}}
